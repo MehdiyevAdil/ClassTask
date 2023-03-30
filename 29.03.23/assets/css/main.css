@@ -79,6 +79,111 @@ main {
   background-color: #c11057;
 }
 
+@media screen and (max-width: 500px) {
+  #one {
+    background-color: #ff6a00;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+  #one h1 {
+    font-size: 40px;
+    color: azure;
+  }
+  #one h2 {
+    font-size: 15px;
+    color: azure;
+  }
+  #one button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 75px 75px;
+    background-color: #ee0979;
+    font-weight: 300;
+    color: azure;
+    letter-spacing: 1px;
+  }
+  #one button:hover {
+    background-color: #c11057;
+  }
+  #two {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  #two .fp {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #sec1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 15px;
+  }
+  #sec1 .word {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #sec1 .fp {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://picsum.photos/200/300");
+    border-radius: 50%;
+  }
+  #sec2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 15px;
+  }
+  #sec2 .word {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #sec2 .fp {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://picsum.photos/200/300");
+    border-radius: 50%;
+  }
+  #sec3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 15px;
+  }
+  #sec3 .word {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  #sec3 .fp {
+    width: 200px;
+    height: 200px;
+    background-image: url("https://picsum.photos/200/300");
+    border-radius: 50%;
+  }
+}
 #two {
   width: 100%;
   display: flex;
@@ -178,4 +283,18 @@ footer {
   justify-content: center;
   align-items: center;
   font-size: 0.9em;
+}
+
+@media screen and (max-width: 500px) {
+  footer {
+    width: 100%;
+    height: 70px;
+    background-color: #000000;
+    color: azure;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.7em;
+  }
 }/*# sourceMappingURL=main.css.map */
