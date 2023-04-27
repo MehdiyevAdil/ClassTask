@@ -1,0 +1,208 @@
+ .container {
+     width: 470px;
+     height: 100vh;
+     margin: 0 auto;
+     background-color: #f5f6f7;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     font-family: 'Noto Sans', sans-serif;
+     font-family: 'Roboto', sans-serif;
+ }
+
+ //started accaunt text and social media
+ .accaunt {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     gap: 12px;
+     padding: 10px;
+
+     h1 {
+         font-weight: 550;
+         color: #3B3C36;
+
+     }
+
+     h3 {
+         font-weight: 500;
+         letter-spacing: 0.3px;
+         color: #3B3C36;
+     }
+
+ }
+
+ .social_media {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+ }
+
+ #twitter {
+     width: 470px;
+     height: 50px;
+     background-color: #1c9cea;
+     border-radius: 8px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 15px;
+     font-size: 20px;
+     color: azure;
+     border: none;
+     cursor: pointer;
+ }
+
+ #face {
+     width: 470px;
+     height: 50px;
+     background-color: #3a5593;
+     border-radius: 8px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     gap: 15px;
+     font-size: 20px;
+     color: azure;
+     border: none;
+     cursor: pointer;
+ }
+
+ .or {
+     width: 470px;
+     border-bottom: 1px solid darkgrey;
+     ;
+     margin: 30px auto;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     position: relative;
+
+     h4 {
+         position: absolute;
+         background-color: #f5f6f7;
+         color: #3B3C36;
+         border-radius: 50%;
+         width: 40px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+ }
+
+ //end accaunt text and social media
+
+ //  form started
+ form {
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+
+     div {
+         position: relative;
+
+         i {
+             position: absolute;
+             padding: 14px;
+             font-size: 20px;
+             background-color: #f5f6f7;
+             border-bottom-left-radius: 8px;
+             border-top-left-radius: 8px;
+             border: 1px solid darkgrey;
+             color: #3B3C36;
+         }
+     }
+
+     input {
+         width: 470px;
+         height: 50px;
+         border-radius: 8px;
+         border: 1px solid darkgrey;
+         font-size: 18px;
+         Padding-left: 60px;
+     }
+
+     select {
+         width: 470px;
+         height: 50px;
+         border-radius: 8px;
+         border-color: darkgrey;
+         font-size: 18px;
+         font-weight: 500;
+         color: #606060;
+         Padding-left: 60px;
+         cursor: pointer;
+
+     }
+
+     .account_button {
+         width: 470px;
+         height: 50px;
+         background-color: #1c9cea;
+         border-radius: 8px;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+         gap: 15px;
+         font-size: 20px;
+         color: azure;
+         border: none;
+         cursor: pointer;
+     }
+ }
+
+ //  form end
+ // account button started
+ .login {
+     font-size: 20px;
+     padding-top: 20px;
+     font-weight: 500;
+     color: #3B3C36;
+
+     a {
+         text-decoration: none;
+         color: #1c9cea;
+     }
+ }
+
+ // account button end
+
+ // phone code dtarted
+ .form-tel {
+     display: flex;
+
+     .sel {
+         width: 235px;
+         height: 50px;
+         border-top-right-radius: 0px;
+         border-bottom-right-radius: 0px;
+
+     }
+
+     .imp {
+         width: 235px;
+         height: 50px;
+         border-top-left-radius: 0px;
+         border-bottom-left-radius: 0px;
+
+     }
+
+     .custom-select {
+         height: 50px;
+         color: #495057;
+         background: #fff url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right 0.75rem center;
+         background-size: 8px 10px;
+         -webkit-appearance: none;
+         appearance: none;
+     }
+
+
+ }
+
+ .fa-solid {
+     width: 50px;
+ }
+
+ // phone code end
