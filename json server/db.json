@@ -1,0 +1,572 @@
+{
+  "LWP101": [
+    {
+      "name": "Ismayil",
+      "age": 22,
+      "id": 9031
+    },
+    {
+      "name": "Vasif",
+      "age": 22,
+      "id": 9032
+    },
+    {
+      "name": "Zeyneb",
+      "age": 21,
+      "id": 9033
+    },
+    {
+      "name": "Aytac",
+      "age": 22,
+      "id": 9037
+    },
+    {
+      "name": "Milana",
+      "age": 22,
+      "id": 9038
+    },
+    {
+      "name": "Yusif",
+      "age": 28,
+      "id": 9039
+    },
+    {
+      "name": "Adel",
+      "age": 28,
+      "id": 9034
+    },
+    {
+      "name": "Adil",
+      "age": 22,
+      "id": 9042
+    },
+    {
+      "name": "Siyaset",
+      "age": 22,
+      "id": 9043
+    },
+    {
+      "name": "Senuber",
+      "age": 21,
+      "id": 8865
+    },
+    {
+      "name": "Xanim",
+      "age": 21,
+      "id": 1123
+    },
+    {
+      "name": "Yusif",
+      "age": 21,
+      "id": 3589
+    },
+    {
+      "name": "Sultanaga",
+      "age": 21,
+      "id": 9086
+    },
+    {
+      "name": "Polad",
+      "age": 24,
+      "id": 8734
+    },
+    {
+      "name": "Cavid",
+      "age": 22,
+      "id": 7765
+    },
+    {
+      "name": "Necef",
+      "age": 21,
+      "id": 8900
+    },
+    {
+      "name": "Necef",
+      "age": 21,
+      "id": 8950
+    },
+    {
+      "name": "Cahangir",
+      "age": 21,
+      "id": 9087
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9088
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9089
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9090
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9091
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9092
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9093
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9094
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9095
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9096
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9097
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9098
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9099
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9100
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9101
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9102
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9103
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9104
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9105
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9106
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9107
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9108
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9109
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9110
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9111
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9112
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9113
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9114
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9115
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9116
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9117
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9118
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9119
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9120
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9121
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9122
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9123
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9124
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9125
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9126
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9127
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9128
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9129
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9130
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9131
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9132
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9133
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9134
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9135
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9136
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9137
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9138
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9139
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9140
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9141
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9142
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9143
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9144
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9145
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9146
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9147
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9148
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9149
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9150
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9151
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9152
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9153
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9154
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9155
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9156
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9157
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9158
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9159
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9160
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9161
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9162
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9163
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9164
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9165
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9166
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9167
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9168
+    },
+    {
+      "name": "Fuad",
+      "age": 21,
+      "id": 9169
+    }
+  ],
+  "imtahanSuallari": [
+    {
+      "id": 1,
+      "A": {
+        "sual": "1. Premyer Liqada ən çox ötürmə rekordu hansı futbolçuya məxsusdur?",
+        "a": "A)Cesc Fabregas",
+        "b": "B)Ryan Giggs",
+        "c": "C)Frank Lampard",
+        "d": "D)Paul Scholes",
+        "answer": "D)Paul Scholes"
+      }
+    },
+    {
+      "id": 2,
+      "A": {
+        "sual": "2. 2005-2008-ci illərdə “Arsenal”da hansı keçmiş Belarus millisi çıxış edib?",
+        "a": "A)Aleksandr Hleb",
+        "b": "B)Maksim Romaşenko",
+        "c": "C)Valyantsin Byalkeviç",
+        "d": "D)Yuri Jenov",
+        "answer": "A)Aleksandr Hleb"
+      }
+    },
+    {
+      "id": 3,
+      "A": {
+        "sual": "3. Qaret Beylin sıçrayış anı 2010-11 mövsümündə, hansı komandaya qarşı ikinci hissədə het-trik etdiyi zaman gəldi?",
+        "a": "A)Inter Milan",
+        "b": "B)AC Milan",
+        "c": "C)Juventus",
+        "d": "D)Napoli",
+        "answer": "A)Inter Milan"
+      }
+    },
+    {
+      "id": 4,
+      "A": {
+        "sual": "4. 2004-cü ildə Çempionlar Liqasının finalında “Porto” hansı komandaya qalib gəldi?",
+        "a": "A)Bayern Münih",
+        "b": "B)La Coruña Deportivo",
+        "c": "C)Barcelona",
+        "d": "D)Monaco",
+        "answer": "D)Monaco"
+      }
+    },
+    {
+      "id": 5,
+      "A": {
+        "sual": "5. Hansı Serb komandası 1991-ci ildə Avropa Kubokunu təmin etmək üçün Marseli penaltilərlə məğlub etdi?",
+        "a": "A)Slaviya Prag",
+        "b": "B)Qırmızı Ulduz Belqrad",
+        "c": "C)Qalatasaray",
+        "d": "D)Spartak Trnava",
+        "answer": "B)Qırmızı Ulduz Belqrad"
+      }
+    },
+    {
+      "id": 6,
+      "A": {
+        "sual": "6. Hansı komanda 7 dəfə Afrika Millətlər Kubokunu qazanıb?",
+        "a": "A)Kamerun",
+        "b": "B)Misir",
+        "c": "C)Seneqal",
+        "d": "D)Qana",
+        "answer": "B)Misir"
+      }
+    }
+  ]
+}
