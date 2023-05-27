@@ -1,0 +1,47 @@
+/* card detalis */
+.content {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardDetalis {
+
+    width: 600px;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:  #0e1d41;
+    border-radius: 6px;
+}
+.cardImg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    border-radius: 6px;
+}
+.textSize{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    input{
+        width: 500px;
+        height: 50px;
+        border-radius: 6px;
+        padding-left: 40px;
+        font-size: 20px;
+        font-weight: 600;
+        color: white;
+    background-color:  #0e1d41;
+
+    }
+    button{
+        width: 100px;
+        height: 40px;
+        font-size: 20px;
+        border-radius: 6px;
+    }
+}
